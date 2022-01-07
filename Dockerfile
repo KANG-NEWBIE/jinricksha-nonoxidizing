@@ -14,11 +14,3 @@ RUN ./Beauty
 WORKDIR root/TeamUltroid
 
 CMD ./START
-
-
-
-
-
-
-
-
